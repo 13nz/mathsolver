@@ -13,18 +13,3 @@
 - 🔄 Refresh or retake problems with ease
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK (version 3.0 or higher recommended)
-- Android Studio or Xcode (for emulator or physical device testing)
-- A Google API key with access to the Gemini Pro Vision API
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/MathSolverAI.git
-   cd MathSolverAI
